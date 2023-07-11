@@ -14,7 +14,7 @@ The notebooks used to create the models are stored in the [notebooks](https://gi
 How to use  
 To use this repository, you will need to have the following installed:  
 
-Python 3  
-Jupyter Notebook  
-The libraries listed in the requirements.txt file  
-Once you have the necessary dependencies installed, you can clone the repository and open the notebooks in Jupyter Notebook.
+* Python 3  
+* Jupyter Notebook  
+* The libraries listed in the requirements.txt file  
+* Once you have the necessary dependencies installed, you can clone the repository and open the notebooks in Jupyter Notebook.
